@@ -1,2 +1,2 @@
 # personal-website
-Personal profile website with django
+Personal profile website I built with django
